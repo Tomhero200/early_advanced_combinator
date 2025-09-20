@@ -1,0 +1,1 @@
+This mod changes the recipes and technology of the selector combinator to be available at green science and and green circuits (so no pesty red circuits, yeah!). Also works with bob's mods.
