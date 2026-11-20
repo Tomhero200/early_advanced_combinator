@@ -1,11 +1,11 @@
 {
     "name": "early-advanced-combinator",
-    "version": "0.0.1",
+    "version": "1.1.0",
     "title": "Early Advanced Combinator",
     "author": "Tomhero200",
     "description": "Makes the advanced combinator available at the same time as the normal combinators. Includes Support for Bob's Mods.",
-    "dependencies": ["base >= 2.0.0"],
-    "factorio_version": "2.0",
+    "dependencies": ["base >= 2.1.7"],
+    "factorio_version": "2.1",
     "license": "GNU General Public License v3.0 or later",
     "homepage": ""
 }
