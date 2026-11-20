@@ -1,4 +1,11 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.1.0
+Date: 2026-11-20
+  Major Features:
+    - Updated mod for Factorio 2.1
+  Info:
+    -  Fixed version mismatch between Mod version and Changelog version
+---------------------------------------------------------------------------------------------------
 Version: 1.0.0
 Date: 2025-09-20
   Major Features:
